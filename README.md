@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="center">
+  Hi 👋 I'm Nora 
+  <br>
+  MSc. student in Data Science @ University of Padova
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/28257051/148938287-7f4c6706-c3db-472a-95e6-00a281e11901.gif" align="center" width="900"/>
+</h2>
 
-<!--
-**noran9/noran9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
+  Curious about networks, space, robotics and <strong>biolgical data</strong>
+</h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+animation by: https://everything1s.tumblr.com/
