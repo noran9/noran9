@@ -1,13 +1,14 @@
 <h2 align="center">
   Hi 👋 I'm Nora 
   <br>
-  MSc. student in Data Science @ University of Padova
+  Bioinformatician @ Lexogen
 </h2>
+<h3 align="center">  Graduate in Data Science @ University of Padova </h4>
 <p align="center">
-      Curious about networks, space, robotics and biological data
     <br>
     <img src="https://user-images.githubusercontent.com/28257051/148938287-7f4c6706-c3db-472a-95e6-00a281e11901.gif" align="center" width="900"/>
 </p>
+List of personal projects: <br><br>
 
 Biological data projects:
 [Structural bioinformatics](https://github.com/noran9/conformational-ensembles-analyzer) | [Genelab - gene expresison](https://github.com/noran9/bioinformatics-genelab-project) | [Network Science - zebrafish neurons](https://github.com/deliriarte/Network-Science)
@@ -21,4 +22,4 @@ Artificial intelligence:
 Web/Desktop Development:
 [Microscopic images editor](https://github.com/noran9/miers) | [WPF](https://github.com/noran9/desktop-email-app) | [Cloud cover prediction](https://github.com/noran9/Learn-IT-Girl)
 
-animation by: https://everything1s.tumblr.com/
+Animation [source](https://everything1s.tumblr.com/)
